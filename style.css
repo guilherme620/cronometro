@@ -98,3 +98,7 @@ body {
 .aba-conteudo {
   display: none;
 }
+.contador {
+  font-size: 20px;
+  text-align: center;
+}
